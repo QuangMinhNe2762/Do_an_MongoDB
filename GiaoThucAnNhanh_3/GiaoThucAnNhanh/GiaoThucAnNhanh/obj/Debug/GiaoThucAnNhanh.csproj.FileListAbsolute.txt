@@ -1,0 +1,377 @@
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\GiaoThucAnNhanh.exe.config
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.Form1.resources
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.Foods_GUI.resources
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.TrangChu_GUI.resources
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.Properties.Resources.resources
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.csproj.GenerateResource.cache
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\GiaoThucAnNhanh.exe
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\GiaoThucAnNhanh.pdb
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Bson.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Memory.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Buffers.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Bson.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Memory.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Buffers.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.exe
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.pdb
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.csprojResolveAssemblyReference.cache
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\DnsClient.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\SharpCompress.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\ZstdSharp.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.Core.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Snappier.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\DnsClient.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.Core.pdb
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.Core.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Snappier.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\New folder\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\GiaoThucAnNhanh.exe.config
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\GiaoThucAnNhanh.exe
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\GiaoThucAnNhanh.pdb
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Memory.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Buffers.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.csproj.AssemblyReference.cache
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.Foods_GUI.resources
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.TrangChu_GUI.resources
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.Properties.Resources.resources
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.csproj.GenerateResource.cache
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.csproj.CoreCompileInputs.cache
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.csproj.CopyComplete
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.exe
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.pdb
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.Nhanvien_GUI.resources
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\mongocrypt.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.Core.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\DnsClient.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Bson.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\SharpCompress.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Snappier.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Security.AccessControl.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\ZstdSharp.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.Core.pdb
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.Core.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\DnsClient.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Bson.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Snappier.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Buffers.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Memory.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Security.AccessControl.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\mongocrypt.dll
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\GiaoThucAnNhanh.exe.config
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\GiaoThucAnNhanh.exe
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\GiaoThucAnNhanh.pdb
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.Core.dll
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.SecurityToken.dll
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\DnsClient.dll
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Win32.Registry.dll
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Bson.dll
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.Core.dll
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.dll
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Libmongocrypt.dll
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\SharpCompress.dll
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Snappier.dll
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Buffers.dll
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Memory.dll
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Numerics.Vectors.dll
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Security.AccessControl.dll
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Security.Principal.Windows.dll
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\ZstdSharp.dll
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.Core.pdb
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.Core.xml
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.SecurityToken.pdb
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.SecurityToken.xml
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\DnsClient.xml
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Win32.Registry.xml
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Bson.xml
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.xml
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.Core.xml
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Snappier.xml
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Buffers.xml
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Memory.xml
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Numerics.Vectors.xml
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Security.AccessControl.xml
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Security.Principal.Windows.xml
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.csproj.AssemblyReference.cache
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.Foods_GUI.resources
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.Nhanvien_GUI.resources
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.TrangChu_GUI.resources
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.Properties.Resources.resources
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.csproj.GenerateResource.cache
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.csproj.CoreCompileInputs.cache
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.csproj.CopyComplete
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.exe
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.pdb
+E:\NoSQL\GiaoThucAnNhanh_2\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.KhachHang_GUI.resources
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\mongocrypt.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\GiaoThucAnNhanh.exe.config
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\GiaoThucAnNhanh.exe
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\GiaoThucAnNhanh.pdb
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.Core.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\DnsClient.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Bson.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\SharpCompress.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Snappier.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Buffers.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Memory.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Security.AccessControl.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\ZstdSharp.dll
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.Core.pdb
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.Core.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\DnsClient.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Bson.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Snappier.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Buffers.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Memory.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Security.AccessControl.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.csproj.AssemblyReference.cache
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.Foods_GUI.resources
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.Nhanvien_GUI.resources
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.TrangChu_GUI.resources
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.Properties.Resources.resources
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.csproj.GenerateResource.cache
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.csproj.CoreCompileInputs.cache
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.csproj.CopyComplete
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.exe
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.pdb
+C:\Users\JFN\Desktop\all\MongoDB\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.Customer.resources
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\mongocrypt.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\GiaoThucAnNhanh.exe.config
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\GiaoThucAnNhanh.exe
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\GiaoThucAnNhanh.pdb
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.Core.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\DnsClient.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Bson.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\SharpCompress.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Snappier.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Buffers.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Memory.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Security.AccessControl.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\ZstdSharp.dll
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.Core.pdb
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.Core.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\DnsClient.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Bson.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Snappier.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Buffers.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Memory.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Security.AccessControl.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.csproj.AssemblyReference.cache
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.Customer.resources
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.Foods_GUI.resources
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.Nhanvien_GUI.resources
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.TrangChu_GUI.resources
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.Properties.Resources.resources
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.csproj.GenerateResource.cache
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.csproj.CoreCompileInputs.cache
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.csproj.CopyComplete
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.exe
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.pdb
+C:\Users\lehon\OneDrive\Desktop\NoSQL\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.HoaDon_GUI.resources
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\mongocrypt.dll
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\GiaoThucAnNhanh.exe.config
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\GiaoThucAnNhanh.exe
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\GiaoThucAnNhanh.pdb
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.Core.dll
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\DnsClient.dll
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Bson.dll
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.dll
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\SharpCompress.dll
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Snappier.dll
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Buffers.dll
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Memory.dll
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Security.AccessControl.dll
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\ZstdSharp.dll
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.Core.pdb
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.Core.xml
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\DnsClient.xml
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Bson.xml
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.xml
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Snappier.xml
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Buffers.xml
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Memory.xml
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Security.AccessControl.xml
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.csproj.AssemblyReference.cache
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.Customer.resources
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.Foods_GUI.resources
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.HoaDon_GUI.resources
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.Nhanvien_GUI.resources
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.TrangChu_GUI.resources
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.Properties.Resources.resources
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.csproj.GenerateResource.cache
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.csproj.CoreCompileInputs.cache
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.csproj.CopyComplete
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.exe
+C:\Users\lehon\OneDrive\Desktop\GiaoThucAnNhanh_3\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.pdb
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\mongocrypt.dll
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\GiaoThucAnNhanh.exe.config
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\GiaoThucAnNhanh.exe
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\GiaoThucAnNhanh.pdb
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.Core.dll
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\DnsClient.dll
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Bson.dll
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.dll
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\SharpCompress.dll
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Snappier.dll
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Buffers.dll
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Memory.dll
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Security.AccessControl.dll
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\ZstdSharp.dll
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.Core.pdb
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.Core.xml
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\DnsClient.xml
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Bson.xml
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.xml
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\Snappier.xml
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Buffers.xml
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Memory.xml
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Security.AccessControl.xml
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.csproj.AssemblyReference.cache
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.Customer.resources
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.Foods_GUI.resources
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.HoaDon_GUI.resources
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.Nhanvien_GUI.resources
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.TrangChu_GUI.resources
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.Properties.Resources.resources
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.csproj.GenerateResource.cache
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.csproj.CoreCompileInputs.cache
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.csproj.CopyComplete
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.exe
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.pdb
+C:\Users\JFN\Desktop\all\MongoDB\finnal_gtan\Nhom2(Ngoc_Minh_Dat_Phuoc)\GiaoThucAnNhanh_3\GiaoThucAnNhanh\GiaoThucAnNhanh\obj\Debug\GiaoThucAnNhanh.GUI.themHoaDon.resources

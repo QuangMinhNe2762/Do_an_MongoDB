@@ -1,0 +1,80 @@
+db.Hoa_don.insert({
+  Ma_hd: "hd01",
+  Tong_tien: 1500,
+  Ma_kh: "kh01",
+  Ds_mon_an: [
+    { Tenmon: "Burger gà", Sl: 1, Gia: 1000 },
+    { Tenmon: "Khoai tây chiên", Sl: 1, Gia: 500 }
+  ]
+})
+
+db.Hoa_don.insert({
+  Ma_hd: "hd02",
+  Tong_tien: 1200,
+  Ma_kh: "kh02",
+  Ds_mon_an: [
+    { Tenmon: "Pizza hải sản", Sl: 1, Gia: 1000 },
+    { Tenmon: "Nước ngọt Coca-Cola", Sl: 1, Gia: 200 }
+  ]
+})
+
+db.Hoa_don.insert({
+  Ma_hd: "hd03",
+  Tong_tien: 1800,
+  Ma_kh: "kh03",
+  Ds_mon_an: [
+    { Tenmon: "Hotdog", Sl: 1, Gia: 1500 },
+    { Tenmon: "Kem ly", Sl: 1, Gia: 300 }
+  ]
+})
+
+db.Hoa_don.insert({
+  Ma_hd: "hd04",
+  Tong_tien: 2500,
+  Ma_kh: "kh04",
+  Ds_mon_an: [
+    { Tenmon: "Nem chua rán", Sl: 2, Gia: 2000 },
+    { Tenmon: "Khoai tây lắc", Sl: 1, Gia: 500 }
+  ]
+})
+
+db.Hoa_don.insert({
+  Ma_hd: "hd05",
+  Tong_tien: 2800,
+  Ma_kh: "kh05",
+  Ds_mon_an: [
+    { Tenmon: "Thịt ba chỉ nướng", Sl: 1, Gia: 2500 },
+    { Tenmon: "Trà sữa", Sl: 2, Gia: 150 }
+  ]
+})
+
+
+db.Mon_an.insert({
+  "Ma_mon_an": "m01",
+  "Ten_mon_an": "Burger gà",
+  "Gia": 1000
+})
+db.Mon_an.insert({
+  "Ma_mon_an": "m02",
+  "Ten_mon_an": "Khoai tây chiên",
+  "Gia": 500
+})
+
+db.Mon_an.insert({
+  "Ma_mon_an": "m03",
+  "Ten_mon_an": "Pizza hải sản",
+  "Gia": 5000
+})
+db.Mon_an.insert({
+  "Ma_mon_an": "m04",
+  "Ten_mon_an": "Nước ngọt Coca-Cola",
+  "Gia": 2000
+})
+
+db.Mon_an.insert({
+  "Ma_mon_an": "m05",
+  "Ten_mon_an": "Hotdog",
+  "Gia": 2000
+})
+
+

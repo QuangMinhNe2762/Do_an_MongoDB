@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34205.153
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiaoThucAnNhanh", "GiaoThucAnNhanh\GiaoThucAnNhanh.csproj", "{25E82461-0B03-4BBB-91BF-6915887ADE53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhachHangGUI", "KhachHangGUI\KhachHangGUI.csproj", "{422086AC-57E2-404D-BC59-F0026E441DF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25E82461-0B03-4BBB-91BF-6915887ADE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25E82461-0B03-4BBB-91BF-6915887ADE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25E82461-0B03-4BBB-91BF-6915887ADE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25E82461-0B03-4BBB-91BF-6915887ADE53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{422086AC-57E2-404D-BC59-F0026E441DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{422086AC-57E2-404D-BC59-F0026E441DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{422086AC-57E2-404D-BC59-F0026E441DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{422086AC-57E2-404D-BC59-F0026E441DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FC983E2-8419-4592-A296-5855B0E97C45}
+	EndGlobalSection
+EndGlobal
